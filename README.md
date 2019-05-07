@@ -4,7 +4,8 @@ Name: Shir Nava
 NetID: Sn2571
 Section: EXL2
 
--State of assignment: Complete
+##-State of assignment: Complete
+
 My project completely meets the project requirements. Artistic liberties that I implemented were changing the colors 
 of the X's, O's and game over/winner messages to fit a Christmas theme(red, green and yellow).
 An additional feature I implemented was in order to start a new game you click on the board and only then it resets.
