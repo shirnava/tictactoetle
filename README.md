@@ -31,7 +31,7 @@ This project has given me insight on the endless possibilities in the hands of p
 # Additional functions I created 
 checkIfOver, checkIfWinning, checkSpace
 
-# Computer Algorithm
+# Computer algorithm and additional functions
 do_computer_move: the function first uses the checkIfWinning function to check if there are rows/columns/diagonals on 
 grid where there are two X's in one row and one underscore(checkIfWinning does that using function checkSpace), and if there are, 
 an X is placed in the row where the underscore is(to win the game). 
