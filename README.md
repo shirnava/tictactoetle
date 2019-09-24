@@ -1,8 +1,5 @@
 # MyProjects
-Projects
-Name: Shir Nava
-
-NetID: Sn2571
+TicTacToe project
 
 # State of project: Complete
 
